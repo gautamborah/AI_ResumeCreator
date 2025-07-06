@@ -1,0 +1,4 @@
+venv_rc/
+backend/auth_keys/
+backend/app/firebase/resumecreatorgb-firebase-adminsdk-fbsvc-e60af97fdb.json
+.DS_Store
