@@ -2,3 +2,9 @@ venv_rc/
 backend/auth_keys/
 backend/app/firebase/resumecreatorgb-firebase-adminsdk-fbsvc-e60af97fdb.json
 .DS_Store
+
+# Ignore all compiled Python files
+*.pyc
+
+# Ignore all __pycache__ directories
+__pycache__/

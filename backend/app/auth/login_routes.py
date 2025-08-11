@@ -35,5 +35,5 @@ def logout(response: Response):
 
 @router.get("/me")
 def read_me(request: Request):
-    user_id = get_session_user(request)
-    return {"user": user_id}
+    user = get_session_user(request)
+    return {"user": user}
